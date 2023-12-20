@@ -3,7 +3,7 @@
 <img src="https://github.com/akita11/GroveLevelShifter/blob/main/GroveLevelShifter.jpg" width="320px">
 
 
-<img src="https://github.com/akita11/GroveLevelShifter/blob/main/GroveLevelShifter.jpg" width="320px">
+<img src="https://github.com/akita11/GroveLevelShifter/blob/main/GroveLevelShifter_back.jpg" width="320px">
 
 2本のGroveケーブルを接続して延長し、その中の電源電圧(+5V)を3.3Vに変換します。M5StackシリーズのGrove互換コネクタ（HY4pコネクタ）は電源電圧が5Vですが、信号電圧は3.3Vのため、信号電圧レベルをあわせるのに利用できます。その他のGNDと2本の信号線はそのまま接続されています。
 
